@@ -1,2 +1,5 @@
 # hello-world
-meh.
+
+Greetings fellow mortals!
+
+I'm just an explorer here. 
